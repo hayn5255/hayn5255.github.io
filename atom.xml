@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://hayn5255.githubio</id>
+    <id>https://hayn5255.github.io</id>
     <title>Welcome</title>
-    <updated>2020-08-26T06:45:03.362Z</updated>
+    <updated>2020-08-26T06:47:22.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://hayn5255.githubio"/>
-    <link rel="self" href="https://hayn5255.githubio/atom.xml"/>
+    <link rel="alternate" href="https://hayn5255.github.io"/>
+    <link rel="self" href="https://hayn5255.github.io/atom.xml"/>
     <subtitle>欢迎来到咸鱼酱的博客
 </subtitle>
-    <logo>https://hayn5255.githubio/images/avatar.png</logo>
-    <icon>https://hayn5255.githubio/favicon.ico</icon>
+    <logo>https://hayn5255.github.io/images/avatar.png</logo>
+    <icon>https://hayn5255.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Welcome</rights>
     <entry>
         <title type="html"><![CDATA[测试2]]></title>
-        <id>https://hayn5255.githubio/post/ce-shi-2/</id>
-        <link href="https://hayn5255.githubio/post/ce-shi-2/">
+        <id>https://hayn5255.github.io/post/ce-shi-2/</id>
+        <link href="https://hayn5255.github.io/post/ce-shi-2/">
         </link>
         <updated>2020-08-26T06:37:52.000Z</updated>
         <content type="html"><![CDATA[<p>测试2<br>
@@ -23,8 +23,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[小咸鱼的第一个博客]]></title>
-        <id>https://hayn5255.githubio/post/xiao-xian-yu-de-di-yi-ge-bo-ke/</id>
-        <link href="https://hayn5255.githubio/post/xiao-xian-yu-de-di-yi-ge-bo-ke/">
+        <id>https://hayn5255.github.io/post/xiao-xian-yu-de-di-yi-ge-bo-ke/</id>
+        <link href="https://hayn5255.github.io/post/xiao-xian-yu-de-di-yi-ge-bo-ke/">
         </link>
         <updated>2020-08-26T05:43:18.000Z</updated>
         <content type="html"><![CDATA[<p>测试<br>
